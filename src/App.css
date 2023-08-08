@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Alkatra&display=swap");
+
+body {
+    font-family: "Alkatra", cursive;
+    background-color: rgb(51, 51, 51);
+    color: #bebebf;
+}
+::-webkit-scrollbar{
+    width: 8px;
+}
+::-webkit-scrollbar-track{
+    background-color: #ffffff;
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgb(255, 255, 255);
+}
+.tkmon {
+    font-size: 20px;
+}
+.tkmon img {
+    border-radius: 50%;
+    padding: 27px;
+    background: linear-gradient(#f1f1f1, #101) padding-box;
+}
